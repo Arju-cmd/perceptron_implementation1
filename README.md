@@ -21,3 +21,7 @@ conda create -n envName python = 3.7
 ```
 conda activate ./env
 ```
+
+```
+mkdir Research_env
+```
